@@ -1,4 +1,3 @@
-# Addressing Concerns about Privacy and Security when Using AI in Communication Practices
 
 The use of AI in communication requires the collection and storage of personal data, which raises concerns about privacy and security. In this chapter, we will explore some strategies for addressing these concerns.
 

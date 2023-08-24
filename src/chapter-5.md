@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Communication with Emotional Intelligence
-==============================================================
 
 Emotional intelligence is a critical component of effective communication. By understanding emotions and perspectives, regulating our own emotions, and building empathy, we can improve our communication skills and build stronger relationships. In this chapter, we will explore how machine learning can be leveraged to enhance emotional intelligence in communication.
 
