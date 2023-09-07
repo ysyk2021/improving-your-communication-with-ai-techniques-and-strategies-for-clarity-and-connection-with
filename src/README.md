@@ -10,3 +10,7 @@ Throughout the book, we will explore the benefits and potential pitfalls of usin
 Whether you're an experienced communicator looking to take your skills to the next level or a novice just starting out, this book has something for everyone. With practical tips, real-world examples, and insights from experts in the field, "Improving Your Communication with AI" is a must-read for anyone looking to enhance their communication skills and achieve greater clarity and connection with others.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
