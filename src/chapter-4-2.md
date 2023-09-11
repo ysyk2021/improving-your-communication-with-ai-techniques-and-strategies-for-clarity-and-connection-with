@@ -1,5 +1,4 @@
-Chapter 9: Implementing AI-Powered Feedback and Analysis for Enhancing Communication Skills
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the implementation of AI-powered feedback and analysis techniques to enhance communication skills. Artificial intelligence offers innovative tools and strategies that can provide valuable insights, personalized feedback, and targeted training to improve various aspects of communication.
 

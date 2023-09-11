@@ -1,5 +1,4 @@
-Chapter 4: Common Applications of AI in Communication, Including Speech Recognition and Translation
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore common applications of Artificial Intelligence (AI) in communication. AI technologies have revolutionized how we communicate by enabling advancements in speech recognition, translation, and other areas. Understanding these applications can help individuals and organizations harness the power of AI to improve clarity and connection in their communication.
 

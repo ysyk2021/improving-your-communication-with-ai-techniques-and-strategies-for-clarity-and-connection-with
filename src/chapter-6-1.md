@@ -1,5 +1,4 @@
-Chapter 8: Addressing Concerns about Privacy and Security When Using AI in Communication Practices
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the important topic of addressing concerns regarding privacy and security when utilizing AI in communication practices. As artificial intelligence becomes more integrated into our daily lives, it is crucial to understand and mitigate the potential risks associated with the use of AI-powered communication tools.
 

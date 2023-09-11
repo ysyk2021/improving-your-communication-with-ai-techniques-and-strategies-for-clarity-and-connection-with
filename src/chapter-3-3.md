@@ -1,5 +1,4 @@
-Chapter 10: Setting Realistic Goals and Tracking Progress on Your Communication Journey
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the importance of setting realistic goals and tracking progress on your communication journey with AI techniques. By establishing clear objectives and monitoring your advancements, you can enhance clarity, connection, and overall communication skills effectively.
 

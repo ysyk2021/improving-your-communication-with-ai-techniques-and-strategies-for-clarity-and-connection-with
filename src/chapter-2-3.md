@@ -1,5 +1,4 @@
-Chapter 6: Examples of Successful Implementation of AI in Communication
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world examples of successful implementations of AI in communication. These examples demonstrate how AI technologies have been utilized to enhance various aspects of communication, improving efficiency, accuracy, and user experience.
 

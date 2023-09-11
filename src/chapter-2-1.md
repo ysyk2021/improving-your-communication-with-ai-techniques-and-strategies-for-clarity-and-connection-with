@@ -1,5 +1,4 @@
-Chapter 1: What is AI and How Does It Work?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the fundamentals of Artificial Intelligence (AI) and gain an understanding of how it works. AI refers to the development of intelligent machines that can perform tasks that typically require human intelligence. By simulating human cognition, AI aims to exhibit behaviors such as learning, problem-solving, perception, and language understanding.
 

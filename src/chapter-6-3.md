@@ -1,5 +1,4 @@
-Chapter 10: Future Developments and Trends in AI-Powered Communication
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting future developments and emerging trends in AI-powered communication. As artificial intelligence continues to evolve, new techniques and strategies are shaping the way we communicate with AI systems, enabling greater clarity, efficiency, and connection.
 

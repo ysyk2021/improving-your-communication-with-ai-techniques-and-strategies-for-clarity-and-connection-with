@@ -1,5 +1,4 @@
-Chapter 7: Machine Learning-Powered Virtual Assistants for Language Translation and Interpretation
-==================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the capabilities and applications of machine learning-powered virtual assistants in the realm of language translation and interpretation. With the advancements in machine learning algorithms, virtual assistants have become powerful tools for bridging language barriers and facilitating effective communication across different languages.
 

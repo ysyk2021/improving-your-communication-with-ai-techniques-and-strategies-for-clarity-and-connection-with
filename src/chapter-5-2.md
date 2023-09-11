@@ -1,5 +1,4 @@
-Chapter 8: AI-Powered Tools for Emotional Regulation and Empathy Building
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging field of AI-powered tools that focus on emotional regulation and empathy building. These technologies leverage Artificial Intelligence (AI) to enhance emotional understanding, provide support in managing emotions, and foster empathy in communication. By utilizing these tools, individuals can improve their emotional well-being and establish more meaningful connections with others.
 

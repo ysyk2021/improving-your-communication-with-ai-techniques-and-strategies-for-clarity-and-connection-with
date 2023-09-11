@@ -1,5 +1,4 @@
-Chapter 6: Using Machine Learning-Powered Tools for Personalized Language Learning and Pronunciation Improvement
-================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting possibilities of using machine learning-powered tools to enhance language learning and improve pronunciation. Machine learning algorithms have revolutionized the way we interact with artificial intelligence, making it possible to create personalized and highly effective language learning experiences.
 
